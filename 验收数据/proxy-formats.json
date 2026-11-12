@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "appVersion": "0.5.2",
+  "exeSha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d",
+  "coreSha256": "8f30682ee198855440d2a7fe070d5d3653793b2d01bb8c85eea88f93bbe7c8b9",
+  "checks": [
+    "VLESS WebSocket/TLS 链接通过原生解析与内核配置校验",
+    "Hysteria2 链接通过原生解析与内核配置校验",
+    "TUIC 链接通过原生解析与内核配置校验",
+    "sing-box outbound JSON 通过原生解析与内核配置校验",
+    "拒绝订阅引用本地证书路径，原有节点保留"
+  ],
+  "scope": "Parser and sing-box configuration acceptance only; no remote protocol sessions"
+}

@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "Windows 版本、下载引擎与重写模块可用",
+    "剧情梳理与独立原意复核模块已加载",
+    "配音入口暂缓",
+    "重启恢复实际生成图与分镜关联",
+    "重启恢复加密账号出口和已关联状态",
+    "重启后原生图片库保留原始图片",
+    "账号和固定出口显示恢复"
+  ],
+  "phase": "mailflow-restore",
+  "status": "passed",
+  "appVersion": "0.5.2",
+  "exeSha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d",
+  "screenshot": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-12\\n-b\\work\\windows-checks\\mailflow-restore-v052.png"
+}

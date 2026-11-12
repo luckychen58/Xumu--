@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "Windows 版本、下载引擎与重写模块可用",
+    "剧情梳理与独立原意复核模块已加载",
+    "配音入口暂缓",
+    "三栏桌面工作台渲染",
+    "原文出处显示"
+  ],
+  "phase": "preview",
+  "status": "passed",
+  "appVersion": "0.5.2",
+  "exeSha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d",
+  "screenshot": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-12\\n-b\\work\\windows-checks\\preview-v052.png"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "appVersion": "0.5.2",
+  "exeSha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d",
+  "resources": [
+    {
+      "resource": "desktop-index.html",
+      "sha256": "d5deecb142994c4386cad914d3a50da9039bd844639d7a462837987ccc9b7cbd",
+      "sourceMatches": true
+    },
+    {
+      "resource": "desktop-selftest.js",
+      "sha256": "32569b7ad09f4dde72487ec71e61380388013dba95465c5a7dd0b753397de9ef",
+      "sourceMatches": true
+    },
+    {
+      "resource": "xumu.ico",
+      "sha256": "51bd1f6535552e1d351b83366c4a2e9e427bf8e221c3975e018a15696fe9838e",
+      "sourceMatches": true
+    }
+  ]
+}

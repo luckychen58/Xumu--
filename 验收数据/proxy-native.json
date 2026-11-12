@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "appVersion": "0.5.2",
+  "exeSha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d",
+  "coreSha256": "8f30682ee198855440d2a7fe070d5d3653793b2d01bb8c85eea88f93bbe7c8b9",
+  "checks": [
+    "原生解析并由内核校验六种协议节点",
+    "下载与官网入口真实经过带认证HTTP代理",
+    "只切换下载出口，官网继续原节点",
+    "SOCKS真实协议连接成功",
+    "SS真实协议连接成功",
+    "VMess fixture真实协议连接成功",
+    "Trojan真实协议连接成功",
+    "SOCKS5网关执行真实连接",
+    "Base64订阅获取与去重保存",
+    "proxy_pool兼容接口获取节点",
+    "Clash YAML作为订阅数据解析",
+    "源获取失败保留旧节点",
+    "官网会话期间阻止重启内核的列表更新",
+    "批量测速后台完成",
+    "测速失败节点自动剔除，下载与闲置官网改用可用节点",
+    "故障切换后下载入口恢复连接",
+    "关闭代理后官网入口恢复直连",
+    "Windows加密保存节点和来源，磁盘无明文认证",
+    "独立进程恢复节点、来源和开关设置",
+    "官网连接在使用时拒绝清空并保留节点",
+    "一键删除全部节点、关闭代理并暂停订阅自动刷新",
+    "清空后保留订阅地址，可一键重新导入并恢复自动刷新",
+    "清空期间正在获取的订阅不能把已删除节点重新加回",
+    "退出清理明文运行配置并停止内核",
+    "用户1000条认证HTTP文件由实际解析器完整导入并通过内核配置校验"
+  ],
+  "userFile": {
+    "authenticationCount": 1000,
+    "warnings": 0,
+    "count": 1000
+  },
+  "credentials": "redacted",
+  "networkScope": "Local HTTP/SOCKS5/SS/VMess/Trojan endpoints; user-file syntax/core validation; no account registrations"
+}

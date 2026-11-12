@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "checks": [
+    "独立 EXE 下载引擎运行",
+    "七猫真实搜索",
+    "七猫真实目录与书名",
+    "七猫全书 101 章下载成功",
+    "七猫全部正文中文与段落有效",
+    "已完成章节从缓存恢复",
+    "番茄真实搜索",
+    "番茄真实目录 98 章",
+    "番茄免费作品全书 98 章下载成功",
+    "番茄全部正文中文与段落有效"
+  ],
+  "qimao": {
+    "bookId": "162483",
+    "title": "西游记",
+    "catalog": 101,
+    "received": 101,
+    "chars": 717407,
+    "first": "第一回灵根育孕源流出心性修持大道生",
+    "last": "第一百回 径回东土 五圣成真",
+    "unrecognizedCharacters": 3
+  },
+  "fanqie": {
+    "bookId": "7598916411989167166",
+    "title": "西遊記",
+    "catalog": 98,
+    "received": 98,
+    "chars": 358376,
+    "first": "第1章 鸿蒙三界藏玄机石胎诡诞生",
+    "last": "第98章 西行",
+    "sha256": "858a699120230785513adff45c904638c9a280ddbb496cd1f512a17300920f50"
+  },
+  "engineSha256": "60a12bd46541ac0986c3f6c423bbb158ebacc38be4011597e8584a6a845a505c",
+  "verificationProvenance": "Historical full-download checks from the identical sealed engine",
+  "originalVerifiedRelease": "0.2.0",
+  "originalVerifiedDate": "2026-11-10",
+  "reusedImmutableEngine": true
+}

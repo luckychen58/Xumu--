@@ -1,0 +1,776 @@
+{
+  "version": "0.5.2",
+  "createdAt": "2026-11-12T23:27:51+08:00",
+  "files": [
+    {
+      "path": "MailFlow注册界面.png",
+      "bytes": 239140,
+      "sha256": "5782cdb882338f08eb79086065bea944166472ff852f1c7c1b688c0612815302"
+    },
+    {
+      "path": "MailFlow生图界面.png",
+      "bytes": 231694,
+      "sha256": "5ec5dad4f700da740b3dc81877b765aec86bdf7f6686507349315000f8a0b6b0"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Core.dll",
+      "bytes": 703328,
+      "sha256": "acdd517b951829f763d1255f32df1e6a936cb8623a7ebff6b8b24172dede6bd6"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.WinForms.dll",
+      "bytes": 38792,
+      "sha256": "c66437f80886aecf074804b61af4cc10ad90a95310c8e0a717f31ea377c26b03"
+    },
+    {
+      "path": "WebView2-LICENSE.txt",
+      "bytes": 1487,
+      "sha256": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55"
+    },
+    {
+      "path": "WebView2Loader.dll",
+      "bytes": 194912,
+      "sha256": "d3fce90bdeecb08596e377dea6a316354dd8949e32ff09b89d51be00c14e21b6"
+    },
+    {
+      "path": "Windows版界面.png",
+      "bytes": 185551,
+      "sha256": "552b8669759c4ac3c2806fc5b9408466d54e6e710f2a1f317e547e16d895b9c6"
+    },
+    {
+      "path": "YamlDotNet-LICENSE.txt",
+      "bytes": 1110,
+      "sha256": "daea8b7f1b2bab48ea12ad50b0ce91634669d99d7dd0cb64aed8dffeeef69ed3"
+    },
+    {
+      "path": "YamlDotNet.dll",
+      "bytes": 291840,
+      "sha256": "9172f0758ed76963e0ede3b5ca9a1fb5b82f64c7e7a92cb3a6de39efa933a668"
+    },
+    {
+      "path": "engine/Fanqie-MIT-LICENSE.txt",
+      "bytes": 1065,
+      "sha256": "e9286cfe0b11e5179f2c8c7559152232b33b6b15627e04eaa30b5d6a169663d2"
+    },
+    {
+      "path": "engine/NovelDownloadEngine.exe",
+      "bytes": 5265344,
+      "sha256": "60a12bd46541ac0986c3f6c423bbb158ebacc38be4011597e8584a6a845a505c"
+    },
+    {
+      "path": "engine/_internal/VCRUNTIME140.dll",
+      "bytes": 178616,
+      "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7"
+    },
+    {
+      "path": "engine/_internal/VCRUNTIME140_1.dll",
+      "bytes": 50112,
+      "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e"
+    },
+    {
+      "path": "engine/_internal/_asyncio.pyd",
+      "bytes": 78048,
+      "sha256": "f9594a2a4f45570dbfdf1f3471194ae7b27dc117c54b9af6bc22df9c93830f8b"
+    },
+    {
+      "path": "engine/_internal/_brotli.cp314-win_amd64.pyd",
+      "bytes": 856576,
+      "sha256": "44f02bcf2b15519a487cf653e16b5f9c65f26d0be559592878988ad47148fc5e"
+    },
+    {
+      "path": "engine/_internal/_bz2.pyd",
+      "bytes": 88288,
+      "sha256": "b938073c85cf6b9fe80556d7899ed1901e5e60b7adea2832442376239fb36b36"
+    },
+    {
+      "path": "engine/_internal/_cffi_backend.cp314-win_amd64.pyd",
+      "bytes": 181248,
+      "sha256": "9e99b2184c60f21a88cafc374386ded3559e8694ed7cf111f2869e066d303334"
+    },
+    {
+      "path": "engine/_internal/_ctypes.pyd",
+      "bytes": 142560,
+      "sha256": "408cc4e7a22ffa418ca52f5e13fe9268a3c50a2bc9de02b0530b555ef591bc5a"
+    },
+    {
+      "path": "engine/_internal/_decimal.pyd",
+      "bytes": 291552,
+      "sha256": "bc3a61685825ae37a4cd2b2b87fa27af12e01575c4f920788ea806e6781a2c79"
+    },
+    {
+      "path": "engine/_internal/_hashlib.pyd",
+      "bytes": 69344,
+      "sha256": "5933ef5eda7c0bca0b3874a6e2c5f13b91b8f2cfc29bc46160df3212a1dbee79"
+    },
+    {
+      "path": "engine/_internal/_lzma.pyd",
+      "bytes": 160992,
+      "sha256": "d2abf8db7fb0cf6285663b177991691a41b37e215c3d71fd087a98d8ec1bee63"
+    },
+    {
+      "path": "engine/_internal/_multiprocessing.pyd",
+      "bytes": 38624,
+      "sha256": "cea83c9bf3131d079c20066b626f67ab33021b476777be2d7be26d1fa5e4eb66"
+    },
+    {
+      "path": "engine/_internal/_overlapped.pyd",
+      "bytes": 58080,
+      "sha256": "1d7028683e6ec50c159139238f90a6c8431ece139a4764900ca11c941ba05d46"
+    },
+    {
+      "path": "engine/_internal/_queue.pyd",
+      "bytes": 36576,
+      "sha256": "2fd8668f52b34d0e71ae48784bd2e7d35e5d99df6f641edb0fc279235a187c8e"
+    },
+    {
+      "path": "engine/_internal/_socket.pyd",
+      "bytes": 87776,
+      "sha256": "02265dd0d0287f3ffd287ea5d8e3c918a5a056e8ef2c4529857f5e84ec9e2519"
+    },
+    {
+      "path": "engine/_internal/_ssl.pyd",
+      "bytes": 190688,
+      "sha256": "4cfb154c7cc525d57020c0e64f2dd876a78b46cd38419446392478de6b7b13b8"
+    },
+    {
+      "path": "engine/_internal/_wmi.pyd",
+      "bytes": 40160,
+      "sha256": "b6fd41f079da0c0054829855360e88b8b762f5c42bb474c2fa02eae367839ad2"
+    },
+    {
+      "path": "engine/_internal/_zstd.pyd",
+      "bytes": 503520,
+      "sha256": "33c6eca99470c3eb9d776b617c550ad41b002a668336f062a9ab7be677a7409a"
+    },
+    {
+      "path": "engine/_internal/base_library.zip",
+      "bytes": 1394319,
+      "sha256": "d3d94adedb242685329c13b207215322220ea092c63c0d430af5fc01653317e5"
+    },
+    {
+      "path": "engine/_internal/certifi/cacert.pem",
+      "bytes": 240216,
+      "sha256": "9cc2a774b5198dcff14d9be1e66091f538975d867ce029a96bce15a55dfd730f"
+    },
+    {
+      "path": "engine/_internal/certifi/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "engine/_internal/charset_normalizer/cd.cp314-win_amd64.pyd",
+      "bytes": 119296,
+      "sha256": "2b13c97ad1682cb3d01ed156b3ff57ce5abdba6f500a93da85ac86b3afdf3a51"
+    },
+    {
+      "path": "engine/_internal/charset_normalizer/md.cp314-win_amd64.pyd",
+      "bytes": 199680,
+      "sha256": "64192ffea885e9cbeb799499b38d821ea5858b0c3631673fbfccdce39880947e"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/METADATA",
+      "bytes": 4343,
+      "sha256": "d4e345f82cb783877d73261f00303577cdf20d13229176c2d03a0a5603cb3ab5"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/RECORD",
+      "bytes": 17865,
+      "sha256": "06f468e65c8bfc0f38f8a7d979b5926285377b16e9925d95222054d25ea141ab"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/WHEEL",
+      "bytes": 96,
+      "sha256": "9efe56059dbb731c438c822ac4132a2b670e174db90f09059aa246a8bdd2a575"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/licenses/LICENSE",
+      "bytes": 197,
+      "sha256": "3e0c7c091a948b82533ba98fd7cbb40432d6f1a9acbf85f5922d2f99a93ae6bb"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/licenses/LICENSE.APACHE",
+      "bytes": 11360,
+      "sha256": "aac73b3148f6d1d7111dbca32099f68d26c644c6813ae1e4f05f6579aa2663fe"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/licenses/LICENSE.BSD",
+      "bytes": 1532,
+      "sha256": "602c4c7482de6479dd2e9793cda275e5e63d773dacd1eca689232ab7008fb4fb"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/sboms/cryptography-rust.cyclonedx.json",
+      "bytes": 45629,
+      "sha256": "b3c1ee14948dbe807f42ebfa07b2719820d4bb5abe54b97d9c0ad501d8618028"
+    },
+    {
+      "path": "engine/_internal/cryptography-50.0.0.dist-info/sboms/sbom.json",
+      "bytes": 1223,
+      "sha256": "944f37dcc1c3f415199717dc9a0cbc927efba2c2e452ac900acdd6a5ab1381a6"
+    },
+    {
+      "path": "engine/_internal/cryptography/hazmat/bindings/_rust.pyd",
+      "bytes": 9935360,
+      "sha256": "05fefb14b1cb1c90bcccce87e82d205f5f2396977bf911243972790ba2376849"
+    },
+    {
+      "path": "engine/_internal/libcrypto-3.dll",
+      "bytes": 6242552,
+      "sha256": "53c529145339fb042a3dcd3a09c2d7753204f8b4fc79d99e0d31e69a33985958"
+    },
+    {
+      "path": "engine/_internal/libffi-8.dll",
+      "bytes": 39696,
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a"
+    },
+    {
+      "path": "engine/_internal/libssl-3.dll",
+      "bytes": 1329912,
+      "sha256": "b17a87979862d19241edc4318f967e24c3ec356ed6c2368f561179fab2311001"
+    },
+    {
+      "path": "engine/_internal/pyexpat.pyd",
+      "bytes": 222944,
+      "sha256": "e34347c4e11b2ecc57df2ce1627ba7f98fd076e9df59951e9034f5aa8e95a2fc"
+    },
+    {
+      "path": "engine/_internal/python3.dll",
+      "bytes": 73952,
+      "sha256": "6c45910e7c82617ca6360820de861699cc99f9efee434df290aa4c6e38f39886"
+    },
+    {
+      "path": "engine/_internal/python314.dll",
+      "bytes": 6785760,
+      "sha256": "0f9857ffdfe010fe6b99328d58c2e3c7472ce75f336bf9c2ad9bd5bca3bce700"
+    },
+    {
+      "path": "engine/_internal/select.pyd",
+      "bytes": 33504,
+      "sha256": "722328e7fad8048057fc966474ba73966d2ceebaa32e7344cce09640ab4dc9bd"
+    },
+    {
+      "path": "engine/_internal/setuptools/_vendor/jaraco/text/Lorem ipsum.txt",
+      "bytes": 1335,
+      "sha256": "37fedcffbf73c4eb9f058f47677cb33203a436ff9390e4d38a8e01c9dad28e0b"
+    },
+    {
+      "path": "engine/_internal/simplejson/_speedups.cp314-win_amd64.pyd",
+      "bytes": 46592,
+      "sha256": "82054e1b1a21303b9a96d6dc706e458264a51353b37495da1fe91534779e0ba8"
+    },
+    {
+      "path": "engine/_internal/unicodedata.pyd",
+      "bytes": 759008,
+      "sha256": "280b09bd97b598d18c0ed9542dc18ed35fa57a16e84f8e65fd9c6e96516c28d6"
+    },
+    {
+      "path": "engine/licenses/Brotli/LICENSE",
+      "bytes": 1103,
+      "sha256": "60ae0f13e76cc2eaaa108677eefa4ce16b647f6bbe8cf0a1ac9429d82eca7248"
+    },
+    {
+      "path": "engine/licenses/CPython/LICENSE.txt",
+      "bytes": 35407,
+      "sha256": "935cf13e19f8c31b497d20b05d73623431a226b230c3599bc30fa3348979bc68"
+    },
+    {
+      "path": "engine/licenses/Expat/LICENSE.txt",
+      "bytes": 1144,
+      "sha256": "31b15de82aa19a845156169a17a5488bf597e561b2c318d159ed583139b25e87"
+    },
+    {
+      "path": "engine/licenses/Mozilla-MPL-2.0/LICENSE.txt",
+      "bytes": 389,
+      "sha256": "a799adf18bfb1911f16086dc0e2a6d1cd0e31272f47e7ee6841b465b74d249de"
+    },
+    {
+      "path": "engine/licenses/OpenSSL/LICENSE.txt",
+      "bytes": 10175,
+      "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+    },
+    {
+      "path": "engine/licenses/PyInstaller/COPYING.txt",
+      "bytes": 32138,
+      "sha256": "dcf75fdb959db1e3b41c0f8505069d2ece781b5ec6b3d0a4d30975cfc6580245"
+    },
+    {
+      "path": "engine/licenses/altgraph/LICENSE",
+      "bytes": 1002,
+      "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46"
+    },
+    {
+      "path": "engine/licenses/certifi/LICENSE",
+      "bytes": 989,
+      "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7"
+    },
+    {
+      "path": "engine/licenses/cffi/LICENSE",
+      "bytes": 1123,
+      "sha256": "5ba24ddc57067f9249add644c3afc41a5d6dc37e23433ef759d95df370b0af63"
+    },
+    {
+      "path": "engine/licenses/charset-normalizer/LICENSE",
+      "bytes": 1092,
+      "sha256": "18577485d3704f1a479ded8e573c0976cfed315fd2fd17983fa988da4c2f70d1"
+    },
+    {
+      "path": "engine/licenses/components.json",
+      "bytes": 5010,
+      "sha256": "68a303348b53f0652b5f5c1edec1d983526fe9a4bb6dde3d67baa58d4ef6f485"
+    },
+    {
+      "path": "engine/licenses/cryptography/LICENSE",
+      "bytes": 197,
+      "sha256": "3e0c7c091a948b82533ba98fd7cbb40432d6f1a9acbf85f5922d2f99a93ae6bb"
+    },
+    {
+      "path": "engine/licenses/cryptography/LICENSE.APACHE",
+      "bytes": 11360,
+      "sha256": "aac73b3148f6d1d7111dbca32099f68d26c644c6813ae1e4f05f6579aa2663fe"
+    },
+    {
+      "path": "engine/licenses/cryptography/LICENSE.BSD",
+      "bytes": 1532,
+      "sha256": "602c4c7482de6479dd2e9793cda275e5e63d773dacd1eca689232ab7008fb4fb"
+    },
+    {
+      "path": "engine/licenses/idna/LICENSE.md",
+      "bytes": 1541,
+      "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04"
+    },
+    {
+      "path": "engine/licenses/jaraco.context/LICENSE",
+      "bytes": 1076,
+      "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+    },
+    {
+      "path": "engine/licenses/jaraco.functools/LICENSE",
+      "bytes": 1076,
+      "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+    },
+    {
+      "path": "engine/licenses/liblzma/LICENSE.txt",
+      "bytes": 607,
+      "sha256": "0b01625d853911cd0e2e088dcfb743261034a091bb379246cb25a14cc4c74bf1"
+    },
+    {
+      "path": "engine/licenses/libmpdec/LICENSE.txt",
+      "bytes": 1285,
+      "sha256": "2713324211652ce4a60e6e21e54f9dc3004299e591b0933a352f1a89c5fb53c2"
+    },
+    {
+      "path": "engine/licenses/more-itertools/LICENSE",
+      "bytes": 1053,
+      "sha256": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+    },
+    {
+      "path": "engine/licenses/packaging/LICENSE",
+      "bytes": 197,
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "path": "engine/licenses/packaging/LICENSE.APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "engine/licenses/packaging/LICENSE.BSD",
+      "bytes": 1344,
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "path": "engine/licenses/pefile/LICENSE",
+      "bytes": 1083,
+      "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3"
+    },
+    {
+      "path": "engine/licenses/pycparser/LICENSE",
+      "bytes": 1543,
+      "sha256": "0c846399369ea76ddd7b5c44fe6d16497415fcf015f5cbb508c24bf98b81c5b1"
+    },
+    {
+      "path": "engine/licenses/pyinstaller-hooks-contrib/LICENSE",
+      "bytes": 27666,
+      "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0"
+    },
+    {
+      "path": "engine/licenses/pywin32-ctypes/LICENSE.txt",
+      "bytes": 1644,
+      "sha256": "dfa83b3e2709adfcdb838d9ad55823ca674abb780e60563d9dd9544ccbf785e9"
+    },
+    {
+      "path": "engine/licenses/requests/LICENSE",
+      "bytes": 10142,
+      "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+    },
+    {
+      "path": "engine/licenses/requests/NOTICE",
+      "bytes": 38,
+      "sha256": "f5110972dedad2b4e9d314518daf3b7d72d6e02e499acd802181de6f74571dcc"
+    },
+    {
+      "path": "engine/licenses/setuptools/LICENSE",
+      "bytes": 1023,
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "path": "engine/licenses/setuptools/NOTICE",
+      "bytes": 18737,
+      "sha256": "09c9bcea95ca086f8bc5bed174e40bc835b297d40fb5f86bbbb570fe0a5581a7"
+    },
+    {
+      "path": "engine/licenses/setuptools/autocommand-2.2.2.dist-info/LICENSE",
+      "bytes": 7634,
+      "sha256": "ade78d04982d69972d444a8e14a94f87a2334dd3855cc80348ea8e240aa0df2d"
+    },
+    {
+      "path": "engine/licenses/setuptools/backports.tarfile-1.2.0.dist-info/LICENSE",
+      "bytes": 1023,
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "path": "engine/licenses/setuptools/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+      "bytes": 10278,
+      "sha256": "458502e12d97bbf64438606a20044aa85eb05fb0a8a807bb35dbec253fd1fc04"
+    },
+    {
+      "path": "engine/licenses/setuptools/jaraco.text-4.0.0.dist-info/LICENSE",
+      "bytes": 1023,
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "path": "engine/licenses/setuptools/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+      "bytes": 1076,
+      "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+    },
+    {
+      "path": "engine/licenses/setuptools/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+      "bytes": 1076,
+      "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+    },
+    {
+      "path": "engine/licenses/setuptools/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+      "bytes": 1053,
+      "sha256": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+    },
+    {
+      "path": "engine/licenses/setuptools/packaging-26.0.dist-info/licenses/LICENSE",
+      "bytes": 197,
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "path": "engine/licenses/setuptools/packaging-26.0.dist-info/licenses/LICENSE.APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "engine/licenses/setuptools/packaging-26.0.dist-info/licenses/LICENSE.BSD",
+      "bytes": 1344,
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "path": "engine/licenses/setuptools/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+      "bytes": 1089,
+      "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+    },
+    {
+      "path": "engine/licenses/setuptools/tomli-2.4.0.dist-info/licenses/LICENSE",
+      "bytes": 1072,
+      "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+    },
+    {
+      "path": "engine/licenses/setuptools/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+      "bytes": 1107,
+      "sha256": "30c23618679108f3e8ea1d2a658c7ca417bdfc891c98ef1a89fa4ff0c9828654"
+    },
+    {
+      "path": "engine/licenses/setuptools/zipp-3.23.0.dist-info/licenses/LICENSE",
+      "bytes": 1076,
+      "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+    },
+    {
+      "path": "engine/licenses/simplejson/LICENSE.txt",
+      "bytes": 10454,
+      "sha256": "9601b2af624d53074a371229815e3a8537032041d605fdfc5a58df6fc3a1b802"
+    },
+    {
+      "path": "engine/licenses/typing-extensions/LICENSE",
+      "bytes": 13936,
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+    },
+    {
+      "path": "engine/licenses/urllib3/LICENSE.txt",
+      "bytes": 1093,
+      "sha256": "130e3a64d5fdd5d096a752694634a7d9df284469de86e5732100268041e3d686"
+    },
+    {
+      "path": "engine/licenses/zlib/LICENSE.txt",
+      "bytes": 1002,
+      "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243"
+    },
+    {
+      "path": "proxy-core/GPL-3.0.txt",
+      "bytes": 34674,
+      "sha256": "fb981668c18a279e285fc4d83fba1e836cc84dd4daa73c9697d3cfd2d8aca6e0"
+    },
+    {
+      "path": "proxy-core/LICENSE.txt",
+      "bytes": 791,
+      "sha256": "650d5e3b99a446fb38e820fa87a49562e0c79eab868fff58618ac487a58e554c"
+    },
+    {
+      "path": "proxy-core/core-manifest.json",
+      "bytes": 1138,
+      "sha256": "0bccaff8c9be1fbaddecb7dbd9d469c69e57cad25f9444313fa31230f6052636"
+    },
+    {
+      "path": "proxy-core/sing-box-source.zip",
+      "bytes": 2750512,
+      "sha256": "9037718f85b67a004517c6a9190b98c68483de643f57c62eb6c889e01beae4bc"
+    },
+    {
+      "path": "proxy-core/sing-box.exe",
+      "bytes": 82074624,
+      "sha256": "8f30682ee198855440d2a7fe070d5d3653793b2d01bb8c85eea88f93bbe7c8b9"
+    },
+    {
+      "path": "proxy-core/源码与构建说明.md",
+      "bytes": 578,
+      "sha256": "9b7bf97394bbd962e8f66905a182d002ee824911ab8a5c59593a17b37dca31b7"
+    },
+    {
+      "path": "下载与场景验收.md",
+      "bytes": 3236,
+      "sha256": "e8d6ff98de5d29323d590d2ee0a8672b53d54d957195815c36abc9ed9824be3d"
+    },
+    {
+      "path": "产品与接入方案.md",
+      "bytes": 2418,
+      "sha256": "4930e8e7eab6a1cfaebb264d5fa4017172a536dec2144dad8cf7084cf2036c27"
+    },
+    {
+      "path": "代理与MailFlow接入说明.md",
+      "bytes": 9285,
+      "sha256": "4e8484243df84ee6413f9df6a83be00a0525672defbe8e12986f7343272c678d"
+    },
+    {
+      "path": "代理节点界面.png",
+      "bytes": 208647,
+      "sha256": "3ef706c3b7eb8507d4584b1495f35bea4a7f1b3af76790dfaf0e935e7c8b80a5"
+    },
+    {
+      "path": "使用说明.md",
+      "bytes": 11556,
+      "sha256": "94dd31449f5e9c7f600b8ca755f01105c45d03d39917539530c39d068dd48cc3"
+    },
+    {
+      "path": "剧情写稿界面.png",
+      "bytes": 212441,
+      "sha256": "0e5383a998f8420c3cf9bfaca5c17bda2c1a83c3bdd40b099f56482d0e02a363"
+    },
+    {
+      "path": "叙幕.exe",
+      "bytes": 688640,
+      "sha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d"
+    },
+    {
+      "path": "叙幕.exe.config",
+      "bytes": 159,
+      "sha256": "f64c95239f1aa0b674748cfc4f3db09144c6925e0a687a02bd8d5c7f7d2e5f8f"
+    },
+    {
+      "path": "时长限制验收.png",
+      "bytes": 178644,
+      "sha256": "b45c850647ab5df1ca9f28556246028cd72f2c7babbcc9456d34e7c8575132e4"
+    },
+    {
+      "path": "更新说明.md",
+      "bytes": 4171,
+      "sha256": "2aaa245a38cdc47780f6f9fa170ca1ffbc43a2dfa4d4bcac92348e764c17f6fd"
+    },
+    {
+      "path": "第三方许可说明.md",
+      "bytes": 4053,
+      "sha256": "7e962b75cb53fab1d4a96b1a9f796c886b418f2a5021604db09b354323f3a22e"
+    },
+    {
+      "path": "逐句重写界面.png",
+      "bytes": 215080,
+      "sha256": "0bcae812126abcf5ca323482c18938dc55d6c9e906e128f4e0d279ce936df373"
+    },
+    {
+      "path": "验收数据/MailFlow真实生图测试.webp",
+      "bytes": 660600,
+      "sha256": "9862aaa5eec9dddd09a90ebf29ffc32b939e976bd126bd6a52c36282be3855d2"
+    },
+    {
+      "path": "验收数据/create.json",
+      "bytes": 1631,
+      "sha256": "20c5aa793b786ad9934b3d92b80e1d6c11d39b47f9266713ac751c584ab157d4"
+    },
+    {
+      "path": "验收数据/duration-restore.json",
+      "bytes": 668,
+      "sha256": "a0dcb874e306f1475be52fb3a5f03bd0aba0704d0cabef0ce63f3d008ecb9f75"
+    },
+    {
+      "path": "验收数据/duration.json",
+      "bytes": 1366,
+      "sha256": "3698f99e1f16ab616be05135be77def8b3e839277fc982e6417d484318440c5a"
+    },
+    {
+      "path": "验收数据/embedded-source.json",
+      "bytes": 640,
+      "sha256": "a42a4c23461edc3c94c4197ac95ea3e238a0846cd01dfc7ebcf3612f08aaf9a5"
+    },
+    {
+      "path": "验收数据/engine-live.json",
+      "bytes": 1315,
+      "sha256": "1d37a66c5e3a374cfdd276dad74e852716e8c92fe5abe1816f5bf67f10112b22"
+    },
+    {
+      "path": "验收数据/integration.json",
+      "bytes": 768,
+      "sha256": "8e35db48b8861284d83ceab651b7a2e7ecb216d8ebc6e5ad0b7909092c17a38b"
+    },
+    {
+      "path": "验收数据/mailflow-live.json",
+      "bytes": 1483,
+      "sha256": "d5d797e36bd274ac689519a80416a1695d5bbdfe024f077c59c4d8e81c5f653f"
+    },
+    {
+      "path": "验收数据/mailflow-native.json",
+      "bytes": 5492,
+      "sha256": "5698823eda65224d36b90dfb5779f2e69a464241f8927f75ffbd9a621dc6bd86"
+    },
+    {
+      "path": "验收数据/mailflow-portal-restore.json",
+      "bytes": 697,
+      "sha256": "b685c6c22bbfc631a78a0103add3e86d2b03a7ab05b0ec44d007efc852d7868c"
+    },
+    {
+      "path": "验收数据/mailflow-portal.json",
+      "bytes": 1032,
+      "sha256": "879175520597e2a9ada985fc667c614c254505ddac22f01334944bf0a1ffffaa"
+    },
+    {
+      "path": "验收数据/mailflow-restore.json",
+      "bytes": 647,
+      "sha256": "3de8b16b2dc682f14d778eccda2893c7564943c737557b54067d0877a522cb82"
+    },
+    {
+      "path": "验收数据/mailflow-ui-analysis.json",
+      "bytes": 667,
+      "sha256": "377cb3ae1fd430d6d589000e7cc8d6830f738e8f1e68e014a4dd9e2cd7ee7f7d"
+    },
+    {
+      "path": "验收数据/mailflow.json",
+      "bytes": 834,
+      "sha256": "f93984e652c71f4aa18ba9db3c630c42128f37c8742e8060baeb81147628af32"
+    },
+    {
+      "path": "验收数据/preview.json",
+      "bytes": 493,
+      "sha256": "f42db87e6d95cb7190e990157c99df54d50a5359cf54d93e4c67046cee19e9f4"
+    },
+    {
+      "path": "验收数据/proxy-formats.json",
+      "bytes": 657,
+      "sha256": "133aa1de98a3afd57d509ad831951a5ef3496fa461cc3d4a493b490ebee2b2ce"
+    },
+    {
+      "path": "验收数据/proxy-native.json",
+      "bytes": 1828,
+      "sha256": "3821d067c175622563a1d49d9c3a45699d044c0085dca83d5ed73a4bf0e4bab0"
+    },
+    {
+      "path": "验收数据/proxy.json",
+      "bytes": 944,
+      "sha256": "5ad69f8a808cfb9277f40ee834a3fccc63939a6cc3016f97987f890554f2d177"
+    },
+    {
+      "path": "验收数据/quality-analysis.json",
+      "bytes": 2139,
+      "sha256": "ac93e9515706b8ab0f89ca789db8af225c08adb5ca8d01127a509c6861665eee"
+    },
+    {
+      "path": "验收数据/quality-restore.json",
+      "bytes": 657,
+      "sha256": "ef1c41d9d5c5d7a0475f5fe683894a76317223c9ca2f4c355a29cfe649036207"
+    },
+    {
+      "path": "验收数据/quality.json",
+      "bytes": 1046,
+      "sha256": "a30c6d85f9b01eac23e3ffd4fe755882a2d13da62499b42d81a639e46162926c"
+    },
+    {
+      "path": "验收数据/restore.json",
+      "bytes": 680,
+      "sha256": "3d71c52b3f8c648f9495759edb996d3428bd0634275d42c06bf3286ed3411bc4"
+    },
+    {
+      "path": "验收数据/rewrite-analysis.json",
+      "bytes": 2255,
+      "sha256": "7769460913932c689139c0320138b722cb0794f99c991df03c1fe0d38d5e2ab6"
+    },
+    {
+      "path": "验收数据/rewrite-long.json",
+      "bytes": 1354,
+      "sha256": "429ce8eb38d1fc5d6c640931a3a2ad01301e9616d01b9978c9a68b9b4716dbe6"
+    },
+    {
+      "path": "验收数据/rewrite-preview.json",
+      "bytes": 695,
+      "sha256": "b3673ffdb26da18eb525b227a6b2b42831dea6d659f61bf112604ba5dcdf759f"
+    },
+    {
+      "path": "验收数据/rewrite-restore.json",
+      "bytes": 733,
+      "sha256": "169bc3287042f220d04f52102fb8fdcc387116b49b2490990cab3fde2e9e4281"
+    },
+    {
+      "path": "验收数据/rewrite.json",
+      "bytes": 1655,
+      "sha256": "b2fd7fbb667388965d1a9038a3b360bf5f89251fdd56bbbb2eb73acbd92c368e"
+    },
+    {
+      "path": "验收数据/source-analysis.json",
+      "bytes": 550,
+      "sha256": "0ab4281e681865b2c4f8ae1452af58d91bca629e57d305305a5324331af615a0"
+    },
+    {
+      "path": "验收数据/source-live.json",
+      "bytes": 645,
+      "sha256": "fdffc1034925e0798bd6660dcc3bfd72d85592a2b4ebbf450534ef748ad40a76"
+    },
+    {
+      "path": "验收数据/story-preview.json",
+      "bytes": 604,
+      "sha256": "fec14243b3af38e08750a026dc1fb1acf3424af9c8b370c26cf5baaff8501cce"
+    },
+    {
+      "path": "验收数据/story-restore.json",
+      "bytes": 1433,
+      "sha256": "833b9de86b967cb65fedab51f85a0bac57e25e538fa3caa8725730575bf1905a"
+    },
+    {
+      "path": "验收数据/story.json",
+      "bytes": 1333,
+      "sha256": "b1d7ecb8af0f5b9347d74ff93d056124babd64e39b7fd4db790c2be3dffb3c2c"
+    },
+    {
+      "path": "验收数据/timing-analysis.json",
+      "bytes": 583,
+      "sha256": "612ed860ea266eb3af3a04c2b09693f870ae562be36891cef8e05294fb3c0229"
+    },
+    {
+      "path": "验证说明.md",
+      "bytes": 5308,
+      "sha256": "8a40be3ce0b3a73f9c8c62039513a431efa0f6e30be19d311c4ce1035989eba7"
+    }
+  ]
+}

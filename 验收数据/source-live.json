@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "book": "qimao-162483",
+      "chapters": 101,
+      "paragraphs": 5032,
+      "scenes": 1303,
+      "aiBatches": 65,
+      "elapsedMs": 199,
+      "emptyDraft": true,
+      "allParagraphsCovered": true,
+      "evidenceValid": true
+    },
+    {
+      "book": "fanqie-7598916411989167166",
+      "chapters": 98,
+      "paragraphs": 12310,
+      "scenes": 3121,
+      "aiBatches": 56,
+      "elapsedMs": 223,
+      "emptyDraft": true,
+      "allParagraphsCovered": true,
+      "evidenceValid": true
+    }
+  ],
+  "moduleSha256": "08e19144f680e9bace1a84365ee3e50e453b3df1061d2c222beba3c7ae01ca6b"
+}

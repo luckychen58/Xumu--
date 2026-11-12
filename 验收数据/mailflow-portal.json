@@ -1,0 +1,22 @@
+{
+  "checks": [
+    "Windows 版本、下载引擎与重写模块可用",
+    "剧情梳理与独立原意复核模块已加载",
+    "配音入口暂缓",
+    "未保存账号时生成按钮不可提交",
+    "官网窗口使用独立浏览器会话并关闭消息桥",
+    "官网会话打开时禁止同时注册另一个账号或提交生图",
+    "通过真实 Windows 消息桥保存账号，只计一次注册成功",
+    "官网出口与独立生图出口分别保存",
+    "重新登录仍使用隔离的官网会话",
+    "重新登录与保存已有账号不会增加注册次数或复制账号",
+    "全部账号列表可见且计数准确",
+    "官网账号不会写入小说项目",
+    "单次注册面板无横向溢出"
+  ],
+  "phase": "mailflow-portal",
+  "status": "passed",
+  "appVersion": "0.5.2",
+  "exeSha256": "3aa43a34a37e8d1e71d5e2e43dfa001fb3dd8e13993c5474fa05df116c22036d",
+  "screenshot": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-12\\n-b\\work\\windows-checks\\mailflow-portal-v052.png"
+}

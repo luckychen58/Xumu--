@@ -1,0 +1,225 @@
+[
+  {
+    "name": "CPython",
+    "version": "3.14.7",
+    "files": [
+      "CPython/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2",
+    "files": [
+      "requests/LICENSE",
+      "requests/NOTICE"
+    ]
+  },
+  {
+    "name": "urllib3",
+    "version": "2.7.0",
+    "files": [
+      "urllib3/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "idna",
+    "version": "3.18",
+    "files": [
+      "idna/LICENSE.md"
+    ]
+  },
+  {
+    "name": "certifi",
+    "version": "2026.7.22",
+    "files": [
+      "certifi/LICENSE"
+    ]
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.5.0",
+    "files": [
+      "charset-normalizer/LICENSE"
+    ]
+  },
+  {
+    "name": "cryptography",
+    "version": "50.0.0",
+    "files": [
+      "cryptography/LICENSE",
+      "cryptography/LICENSE.APACHE",
+      "cryptography/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "cffi",
+    "version": "2.1.1",
+    "files": [
+      "cffi/LICENSE"
+    ]
+  },
+  {
+    "name": "pycparser",
+    "version": "3.0",
+    "files": [
+      "pycparser/LICENSE"
+    ]
+  },
+  {
+    "name": "Brotli",
+    "version": "1.2.0",
+    "files": [
+      "Brotli/LICENSE"
+    ]
+  },
+  {
+    "name": "simplejson",
+    "version": "4.1.1",
+    "files": [
+      "simplejson/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "84.0.0",
+    "files": [
+      "setuptools/LICENSE",
+      "setuptools/autocommand-2.2.2.dist-info/LICENSE",
+      "setuptools/backports.tarfile-1.2.0.dist-info/LICENSE",
+      "setuptools/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+      "setuptools/jaraco.text-4.0.0.dist-info/LICENSE",
+      "setuptools/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+      "setuptools/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+      "setuptools/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+      "setuptools/packaging-26.0.dist-info/licenses/LICENSE",
+      "setuptools/packaging-26.0.dist-info/licenses/LICENSE.APACHE",
+      "setuptools/packaging-26.0.dist-info/licenses/LICENSE.BSD",
+      "setuptools/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+      "setuptools/tomli-2.4.0.dist-info/licenses/LICENSE",
+      "setuptools/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+      "setuptools/zipp-3.23.0.dist-info/licenses/LICENSE",
+      "setuptools/NOTICE",
+      "setuptools/NOTICE"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "files": [
+      "packaging/LICENSE",
+      "packaging/LICENSE.APACHE",
+      "packaging/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "typing-extensions",
+    "version": "4.16.0",
+    "files": [
+      "typing-extensions/LICENSE"
+    ]
+  },
+  {
+    "name": "jaraco.context",
+    "version": "6.1.2",
+    "files": [
+      "jaraco.context/LICENSE"
+    ]
+  },
+  {
+    "name": "jaraco.functools",
+    "version": "4.6.0",
+    "files": [
+      "jaraco.functools/LICENSE"
+    ]
+  },
+  {
+    "name": "more-itertools",
+    "version": "11.1.0",
+    "files": [
+      "more-itertools/LICENSE"
+    ]
+  },
+  {
+    "name": "PyInstaller",
+    "version": "6.22.0",
+    "files": [
+      "PyInstaller/COPYING.txt"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.6",
+    "files": [
+      "pyinstaller-hooks-contrib/LICENSE"
+    ]
+  },
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "files": [
+      "altgraph/LICENSE"
+    ]
+  },
+  {
+    "name": "pefile",
+    "version": "2024.8.26",
+    "files": [
+      "pefile/LICENSE"
+    ]
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "files": [
+      "pywin32-ctypes/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "OpenSSL",
+    "version": "OpenSSL 3.5.7 9 Jun 2026",
+    "source": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.5.7/LICENSE.txt",
+    "files": [
+      "OpenSSL/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Expat",
+    "version": "CPython 3.14.7 source",
+    "source": "https://raw.githubusercontent.com/python/cpython/v3.14.7/Modules/expat/COPYING",
+    "files": [
+      "Expat/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "libmpdec",
+    "version": "4.0.0",
+    "source": "https://www.bytereef.org/software/mpdecimal/releases/mpdecimal-4.0.0.tar.gz",
+    "files": [
+      "libmpdec/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "zlib",
+    "version": "license notice",
+    "source": "https://raw.githubusercontent.com/madler/zlib/v1.3.1/LICENSE",
+    "files": [
+      "zlib/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "liblzma",
+    "version": "0BSD license notice",
+    "source": "https://raw.githubusercontent.com/tukaani-project/xz/v5.8.1/COPYING.0BSD",
+    "files": [
+      "liblzma/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Mozilla-MPL-2.0",
+    "version": "certificate data license",
+    "source": "https://raw.githubusercontent.com/mozilla/gecko-dev/master/LICENSE",
+    "files": [
+      "Mozilla-MPL-2.0/LICENSE.txt"
+    ]
+  }
+]
